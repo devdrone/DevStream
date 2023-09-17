@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "W:\\DevStreamAPI\\DevStreamAPI\\DevStreamAPI.csproj": {}
+    "W:\\DevStream\\DevStreamAPI\\DevStreamAPI.csproj": {}
   },
   "projects": {
-    "W:\\DevStreamAPI\\DevStreamAPI\\DevStreamAPI.csproj": {
+    "W:\\DevStream\\DevStreamAPI\\DevStreamAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "W:\\DevStreamAPI\\DevStreamAPI\\DevStreamAPI.csproj",
+        "projectUniqueName": "W:\\DevStream\\DevStreamAPI\\DevStreamAPI.csproj",
         "projectName": "DevStreamAPI",
-        "projectPath": "W:\\DevStreamAPI\\DevStreamAPI\\DevStreamAPI.csproj",
+        "projectPath": "W:\\DevStream\\DevStreamAPI\\DevStreamAPI.csproj",
         "packagesPath": "C:\\Users\\Dev\\.nuget\\packages\\",
-        "outputPath": "W:\\DevStreamAPI\\DevStreamAPI\\obj\\",
+        "outputPath": "W:\\DevStream\\DevStreamAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dev\\AppData\\Roaming\\NuGet\\NuGet.Config",

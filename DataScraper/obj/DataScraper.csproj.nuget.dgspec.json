@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "W:\\DevStreamAPI\\DataScraper\\DataScraper.csproj": {}
+    "W:\\DevStream\\DataScraper\\DataScraper.csproj": {}
   },
   "projects": {
-    "W:\\DevStreamAPI\\DataScraper\\DataScraper.csproj": {
+    "W:\\DevStream\\DataScraper\\DataScraper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "W:\\DevStreamAPI\\DataScraper\\DataScraper.csproj",
+        "projectUniqueName": "W:\\DevStream\\DataScraper\\DataScraper.csproj",
         "projectName": "DataScraper",
-        "projectPath": "W:\\DevStreamAPI\\DataScraper\\DataScraper.csproj",
+        "projectPath": "W:\\DevStream\\DataScraper\\DataScraper.csproj",
         "packagesPath": "C:\\Users\\Dev\\.nuget\\packages\\",
-        "outputPath": "W:\\DevStreamAPI\\DataScraper\\obj\\",
+        "outputPath": "W:\\DevStream\\DataScraper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dev\\AppData\\Roaming\\NuGet\\NuGet.Config",

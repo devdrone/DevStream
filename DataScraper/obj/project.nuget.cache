@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "egCxvCIbOVmi6pvzivzDkPVRvPixXaziCaRdA91fjOZe7hOZacUE7GZWmR+4e2cQRvXZB/ETNzckPIfwa6PgSw==",
+  "dgSpecHash": "qBnFcUZaR0bNv+lgIu2F6iEiUNsrz2Ep00H8ZygKm6H/qPvvhWiDmXiLD8Sgy3E9kXnAwrtgJ3EchYwKZxzdjQ==",
   "success": true,
-  "projectFilePath": "W:\\DevStreamAPI\\DataScraper\\DataScraper.csproj",
+  "projectFilePath": "W:\\DevStream\\DataScraper\\DataScraper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dev\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Dev\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
