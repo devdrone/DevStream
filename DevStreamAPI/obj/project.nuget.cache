@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "dnYS4nKNGk9D/2KU6SXCbbZvZzGwKVK50ymZCZPC4cyzzyWYKeraiw+2G7henDHQ0fEHev7Y3/T6o6D40qOcyg==",
+  "success": true,
+  "projectFilePath": "W:\\DevStreamAPI\\DevStreamAPI\\DevStreamAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dev\\.nuget\\packages\\htmlagilitypack\\1.11.52\\htmlagilitypack.1.11.52.nupkg.sha512",
+    "C:\\Users\\Dev\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Dev\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Dev\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Dev\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Dev\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Dev\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
