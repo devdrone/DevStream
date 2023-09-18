@@ -1,9 +1,10 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  selector: 'devstream-root',
+  template: `<div>
+  <my-card></my-card>
+  </div>`
 })
 export class AppComponent {
   title = 'DevStreamWeb';
